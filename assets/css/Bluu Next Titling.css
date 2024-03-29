@@ -1,0 +1,12 @@
+@font-face {
+	font-family: 'Bluu Next Titling';
+	src: url(../../assets/fonts/BluuNext-Titling.eot) format('embedded-opentype'),
+	url(../../assets/fonts/BluuNext-Titling.eot) format('embedded-opentype'),
+	url(../../assets/fonts/BluuNext-Titling.woff2) format('woff2'),
+	url(../../assets/fonts/BluuNext-Titling.woff) format('woff'),
+	url(../../assets/fonts/BluuNext-Titling.ttf) format('truetype'),
+	url(../../assets/fonts/BluuNext-Titling.svg) format('svg');
+	font-weight: 600;
+	font-style: normal;
+	font-display: swap;
+}

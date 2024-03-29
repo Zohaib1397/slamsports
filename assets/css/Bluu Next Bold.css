@@ -1,0 +1,12 @@
+@font-face {
+	font-family: 'Bluu Next Bold';
+	src: url(../../assets/fonts/BluuNext-Bold.eot) format('embedded-opentype'),
+	url(../../assets/fonts/BluuNext-Bold.eot) format('embedded-opentype'),
+	url(../../assets/fonts/BluuNext-Bold.woff2) format('woff2'),
+	url(../../assets/fonts/BluuNext-Bold.woff) format('woff'),
+	url(../../assets/fonts/BluuNext-Bold.ttf) format('truetype'),
+	url(../../assets/fonts/BluuNext-Bold.svg) format('svg');
+	font-weight: bold;
+	font-style: normal;
+	font-display: swap;
+}

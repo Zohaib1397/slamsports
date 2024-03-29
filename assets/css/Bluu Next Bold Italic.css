@@ -1,0 +1,12 @@
+@font-face {
+	font-family: 'Bluu Next Bold Italic';
+	src: url(../../assets/fonts/BluuNext-BoldItalic.eot) format('embedded-opentype'),
+	url(../../assets/fonts/BluuNext-BoldItalic.eot) format('embedded-opentype'),
+	url(../../assets/fonts/BluuNext-BoldItalic.woff2) format('woff2'),
+	url(../../assets/fonts/BluuNext-BoldItalic.woff) format('woff'),
+	url(../../assets/fonts/BluuNext-BoldItalic.ttf) format('truetype'),
+	url(../../assets/fonts/BluuNext-BoldItalic.svg) format('svg');
+	font-weight: bold;
+	font-style: italic;
+	font-display: swap;
+}
